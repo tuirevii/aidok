@@ -5,9 +5,8 @@ Hands-Free UX to Ease Paramedics’ Tasks
 
 AIDOK is a light-weight and durable earpiece which **utilizes AI and speech-to-text-to-speeh tehnology** to revolutionize emergency care. It provides paramedics the possibility to document, communicate, and to use translation/interpretation feature in real-time and at the same time freeing their hands for patient care.
 
-This was a really extensive project, so not everything can be presented here. Our client Solita Oy was very happy and pleased with everything we did and the outcome. [Read more about the project from our detailed blog on Notion](https://tinyurl.com/productive-pandas-blog)
+This was a really extensive project, so not everything can be presented here. Our client Solita Oy was very happy and pleased with everything we did and the outcome. [Learn more about the project in detail from our blog on Notion](https://tinyurl.com/productive-pandas-blog)
 
-Read more about the project from our blog on Notion
 ## Project's Basis
 
 - **Client:** Solita Oy
