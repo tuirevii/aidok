@@ -27,8 +27,10 @@ Read more about the project from our blog on Notion
 
 - A dialog-based concept (concept video)
 - Storyboards
+- User persona
 - Product design
-- Project presentations (PDF)
+- Project presentations
+- Project blog (detailed information of everything we did and found out)
 
 ## My Role
 
@@ -36,7 +38,7 @@ I had a key role throughout the project as the only Finnish speaker on the team.
 
 - Conducted extensive desk research
 - Recruited paramedics for interviews, prepared all things for the interviews, and participated in all sessions (as an interviewer, or observer & interpretator)
-- Created the user persona and two storyboards (digitally drawn)
+- Created the user persona and two storyboards (digitally drawn with a Wacom pen tablet and Canva)
 - Designed all the questionnaires
 - Contributed to data analysis collaboratively
 - Handled all Finnish-English-Finnish translations and interpretations
@@ -77,6 +79,9 @@ A lot of different kinds of methods were used during the project. I'm not going 
 - The system must be trustworthy, and privacy issues need to be considered
 
 ## User Persona
+
+I created this with Canva.
+
 ![User persona of a paramedic](https://github.com/user-attachments/assets/c54a4e55-5bce-4b23-83f4-1a729ca0e59e)
 
 
@@ -126,9 +131,13 @@ Easing communication with patients, eyewitnesses, etc. without a common language
 
 #### Documentation
 
+I created this with a Wacom pen tablet and Canva.
+
 ![Storyboard of the AIDOK when the use case is documentation](https://github.com/user-attachments/assets/d31ce6fd-11a4-4e76-a2fc-177417cc6eed)
 
 #### Communication
+
+I created this with a Wacom pen tablet and Canva.
 
 ![Storyboard of the AIDOK when the use case is communication](https://github.com/user-attachments/assets/89b05909-94cf-439b-8158-34555e6b0016)
 
