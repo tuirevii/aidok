@@ -7,6 +7,9 @@ AIDOK is a light-weight and durable earpiece which **utilizes AI and speech-to-t
 
 This was a really extensive project, so not everything can be presented here. Our client Solita Oy was very happy and pleased with everything we did and the outcome. [Learn more about the project in detail from our blog on Notion](https://tinyurl.com/productive-pandas-blog)
 
+![AIDOK earpiece, a hands-free device that makes paramedics' work easier.](https://github.com/user-attachments/assets/d95e2db3-7c7e-4ce6-ac0d-ee650825fb5f)
+
+
 ## Project's Basis
 
 - **Client:** Solita Oy
@@ -56,6 +59,19 @@ A lot of different kinds of methods were used during the project. I'm not going 
 
 ![Word cloud of the used methods](https://github.com/user-attachments/assets/738ba1fa-f3c3-4fa5-af66-2b83c0c4beab)
 
+## Desk Research
+
+We read over 25 articles and searched for possible current and competing devices, learned about the trends, AI, LLM, generative AI, etc. Here's a list of some the things we took a look at:
+- Virve 2.0
+- AI & Generative AI
+- LLM
+- Lifecare
+- Merlot Medi
+- VuzixM400 Smart Glasses
+- GlassE Smart Glasses
+- Speech Based Assistants
+- SnapCap System
+- Using ChatGPT in Healthcare
 
 ## User Study
 
@@ -88,7 +104,11 @@ I created this with Canva.
 
 ### Smart glasses for documenting, communication, and visualizing data
 
-Our original plan for the product was to create a pair of smart glasses (“NursEyes”) with built-in generative AI capabilities in addition to communication and translation features. However, the evaluation of this 1st MVP with paramedics gave us important information that led to a major revision in our original idea.
+Our original plan for the product was to create a pair of smart glasses (“NursEyes”) with built-in generative AI capabilities in addition to communication and translation features. However, **the evaluation of this 1st MVP with paramedics gave us important information that led to a major revision in our original idea.**
+
+![A demostrative image of the possible form factor of NursEyes smartglasses.](https://github.com/user-attachments/assets/530e6f57-4bba-4e77-8c0e-6f738b80e466)
+
+
 
 ### Evaluation of the 1st MVP
 
@@ -96,6 +116,8 @@ Our original plan for the product was to create a pair of smart glasses (“Nurs
 - Background questionnaire for new participants
 - Semi-stuctured interviews
 - Post-questionnaire
+
+![Affinity diagram of the 1st MVP evaluation, NursEyes](https://github.com/user-attachments/assets/6e781f1f-9cdc-4206-a0c8-7e899d9741cd)
 
 #### Main Findings
 
@@ -113,14 +135,17 @@ Our original plan for the product was to create a pair of smart glasses (“Nurs
 
 ![Features of and annotations regardng the AIDOK device](https://github.com/user-attachments/assets/e387c5f3-494a-4351-83de-ece3c8e59949)
 
-**Smart Audio-Based Documentation**
-Transcription and GenAI to record and summarize speech-to-text recorded notes and save captured images.
+#### Smart Audio-Based Documentation
 
-**Hands-Free Communication**
-Communication via different channels, and streaming live video to, for example, share patient’s condition to a doctor.
+- Transcription and GenAI to record and summarize speech-to-text recorded notes and save captured images.
 
-**Live Translation and Interpretation**
-Easing communication with patients, eyewitnesses, etc. without a common language.
+#### Hands-Free Communication
+
+- Communication via different channels, and streaming live video to, for example, share patient’s condition to a doctor.
+
+#### Live Translation and Interpretation
+
+- Easing communication with patients, eyewitnesses, etc. without a common language.
 
 ### Product Design
 ![Näyttökuva 2024-12-11 151108](https://github.com/user-attachments/assets/b11de012-4966-42ea-a2eb-a59f37dacfa6)
@@ -158,12 +183,21 @@ The MVP of AIDOK was evaluated with semi-structured interviews and a post-questi
 - 32-48 years
 - 4 wellbeing services counties
 
+![Affinity diagram of the evaluation of the 2nd MVP, AIDOK.](https://github.com/user-attachments/assets/08ae0e54-4dc3-4867-b4ae-0e7c87e837d3)
+
+
 #### Main Findings
 
 - The concept and all of its features were **liked a lot**, and so were the storyboards and the video
 - **The translation/interpretation feature needs more iteration**
 - Focus should be on reliability, accuracy and safety & privacy issues
 - Integration with their other main devices/systems is a must
+
+Please, have also a look at our final presentation included in this repository. It contains a more detailed description of the findings regarding, for example, the features, concerns, other topics and feedback, and the results from the post-questionnaire.
+
+Other Topics
+ and Feedback
+
 
 ## Project's Blog
 
