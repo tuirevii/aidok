@@ -81,7 +81,7 @@ We read over 25 articles and searched for possible current and competing devices
 
 ### Main Findings
 
-**Paramedics’ Paint Points**
+**Paramedics’ Pain Points**
 - Documentation
 - Cognitive load
 - Accessing data
