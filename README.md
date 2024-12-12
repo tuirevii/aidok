@@ -195,9 +195,6 @@ The MVP of AIDOK was evaluated with semi-structured interviews and a post-questi
 
 Please, have also a look at our final presentation included in this repository. It contains a more detailed description of the findings regarding, for example, the features, concerns, other topics and feedback, and the results from the post-questionnaire.
 
-Other Topics
- and Feedback
-
 
 ## Project's Blog
 
