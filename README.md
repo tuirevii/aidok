@@ -1,5 +1,4 @@
-# AIDOK
-Hands-Free UX to Ease Paramedics’ Tasks
+# AIDOK - Hands-Free UX to Ease Paramedics’ Tasks
 
 **UX Design  |  Product Design  |  User Research**
 
