@@ -2,7 +2,7 @@
 
 **UX Design  |  Product Design  |  User Research**
 
-AIDOK is a light-weight and durable earpiece which **utilizes AI and speech-to-text-to-speeh tehnology** to revolutionize emergency care. It provides paramedics the possibility to document, communicate, and to use translation/interpretation feature in real-time and at the same time freeing their hands for patient care.
+AIDOK is a light-weight and durable earpiece which **utilizes AI and speech-to-text-to-speech tehnology** to revolutionize emergency care. It provides paramedics the possibility to document, communicate, and to use translation/interpretation feature in real-time and at the same time freeing their hands for patient care.
 
 This was a really extensive project, so not everything can be presented here. Our client Solita Oy was very happy and pleased with everything we did and the outcome. [Learn more about the project in detail from our blog on Notion](https://tinyurl.com/productive-pandas-blog)
 
@@ -14,6 +14,7 @@ This was a really extensive project, so not everything can be presented here. Ou
 - **Client:** Solita Oy
 - **Target group:** Paramedics
 - **Team:** 6 members (with me being the only Finnish speaking)
+- **Course:** HTI.230 Human-Centered Product Development (Tampere University)
 
 ## Goals & Deliverables
 
@@ -60,7 +61,7 @@ A lot of different kinds of methods were used during the project. I'm not going 
 
 ## Desk Research
 
-We read over 25 articles and searched for possible current and competing devices, learned about the trends, AI, LLM, generative AI, etc. Here's a list of some the things we took a look at:
+We read over 25 articles and searched for possible current and competing devices, learned about the trends, AI, LLM, generative AI, etc. Here's a list of some of the things we took a look at:
 - Virve 2.0
 - AI & Generative AI
 - LLM
